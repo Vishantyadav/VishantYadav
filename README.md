@@ -1,32 +1,27 @@
 ## Hi there 👋 I'm Vishant Yadav
 
-💫 About Me:
-💫 About Me: 💻 Software Developer at Brain Payroll
-🚀 Passionate about building scalable web applications
-🌱 Currently exploring modern web technologies & system design
-🛠️ Skilled in Angular , C# dotnet Web API , SQL Server.
-📊 Interested in problem-solving, real-world projects & tech innovation
+# 💫 About Me:
+💫 About Me: 💻 Software Developer at Brain Payroll <br>🚀 Passionate about building scalable web applications <br>🌱 Currently exploring modern web technologies & system design <br>🛠️ Skilled in Angular , C# dotnet Web API , SQL Server. <br>📊 Interested in problem-solving, real-world projects & tech innovation
 
-🌐 Socials:
-Facebook Instagram LinkedIn Pinterest Quora Stack Overflow X email
 
-💻 Tech Stack:
-C# C++ HTML5 JavaScript TypeScript Azure Vercel Firebase .Net Angular.js Chakra Chart.js jQuery MUI NPM NodeJS Nodemon RxJS Webpack Nginx MicrosoftSQLServer MongoDB MySQL NumPy Matplotlib GitLab GitHub Git Docker ESLint Jira
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/vishant.yadav.5/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/vishant_yadav_009?igsh=MWt0ZGlNm1uZ2l1Zg%3D%3D) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vishant-yadav-08b2b4236/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://in.pinterest.com/vishantyadav687/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/Vishant-Yadav-55) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/25323456) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Vishant02175614) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vishantyadav687@gmail.com) 
 
-📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=VishantYadav&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
-![](https://nirzak-streak-stats.vercel.app/?user=VishantYadav&theme=dark&hide_border=false)
-
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=plastic&logo=angularjs&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=plastic&logo=chakraui&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=plastic&logo=chart.js&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=plastic&logo=mui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=plastic&logo=nodemon&logoColor=%BBDEAD) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=plastic&logo=reactivex&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=plastic&logo=webpack&logoColor=black) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=plastic&logo=eslint&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=VishantYadav&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=VishantYadav&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VishantYadav&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=VishantYadav&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-✍️ Random Dev Quote
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=VishantYadav&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Vishant Yadav&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-![](https://visitcount.itsvg.in/api?id=Vishant Yadav&icon=0&color=0)
+---
+[![](https://visitcount.itsvg.in/api?id=VishantYadav&icon=0&color=0)](https://visitcount.itsvg.in)
